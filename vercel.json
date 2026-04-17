@@ -1,0 +1,9 @@
+{
+  "name": "new-portfolio",
+  "rewrites": [
+    {
+      "source": "(.*)",
+      "destination": "/portfolio.html"
+    }
+  ]
+}
